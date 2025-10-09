@@ -36,13 +36,17 @@
   <!-- <img src="./vhdl.png" height="60" alt="vhdl" /> -->
 
   <br><br>
+<h3>⚙️ Frameworks y Entornos</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs" />
+<img width="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="60" alt="deno" />
+<img width="24" />
+<img src="https://cdn.simpleicons.org/fresh/00e4a5" height="60" alt="fresh" />
+<img width="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="60" alt="graphql" />
+<img width="24" />
+<img src="https://cdn.simpleicons.org/apollographql/ffffff" height="60" alt="apollo" />
 
-  <h3>⚙️ Frameworks y Entornos</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="60" alt="deno" />
-  <img width="24" />
-  <img src="https://fresh.deno.dev/logo.svg" height="60" alt="fresh logo" />
 
   <br><br>
 
