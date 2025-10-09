@@ -81,8 +81,4 @@
 
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Raaul04/Raaul04/output/snake.svg" alt="Snake animation" />
