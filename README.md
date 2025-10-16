@@ -39,6 +39,8 @@
 <h3>⚙️ Frameworks y Entornos</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs" />
 <img width="24" />
+<img src="https://cdn.simpleicons.org/express/ffffff" height="60" alt="express" />
+<img width="24"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="60" alt="deno" />
 <img width="24" />
 <img src="https://cdn.simpleicons.org/fresh/00e4a5" height="60" alt="fresh" />
