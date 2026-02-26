@@ -1,17 +1,6 @@
 <h2 align="center">👋 ¡Hola! Soy Raúl, estudiante de Ingeniería Informática  </h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raaul04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raaul04&layout=compact&langs_count=6&theme=tokyonight" height="170" alt="languages graph" />
-</div>
-
-###
-
-<!-- 
-<img align="right" height="180" src="AQUI_TU_GIF.gif" alt="gif animado" />
--->
 
 ###
 
