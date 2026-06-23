@@ -1,10 +1,10 @@
-<h1 align="center">
+<p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&text=Ra%C3%BAl%20Letrado&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20AI&descSize=18&descAlignY=56&animation=fadeIn"
-    alt="Raúl Letrado Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&amp;text=Ra%C3%BAl%20Letrado&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20AI&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn"
+    alt="Raúl Letrado"
   />
-</h1>
+</p>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -79,6 +79,20 @@
 | Backend Development  | Node.js, Express, APIs and databases                            |
 | Data & AI            | Python, data analysis, automation and applied AI                |
 | Systems Thinking     | Linux, networks, distributed systems and real-world engineering |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Open To
+
+<img src="https://img.shields.io/badge/Internships-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Engineering-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Data-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product%20Engineering-1D4ED8?style=for-the-badge" />
 
 </div>
 
@@ -266,19 +280,59 @@ These projects reflect my learning process across different areas of Computer En
 </div>
 
 <!--
-SECCIONES DESACTIVADAS POR AHORA
+SECCIONES PARA AÑADIR EN EL FUTURO
 
 CERTIFICATIONS:
-No incluyo certificaciones AWS, Oracle, Cisco, NPTEL, etc. porque no están confirmadas.
-Es mejor no mostrar certificaciones si no tienes el certificado real.
+No incluyo certificaciones visibles por ahora para evitar poner información no confirmada.
+Cuando tengas certificaciones reales, puedes añadir algo así:
+
+---
+
+<h2 align="center">Certifications</h2>
+
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/AWS-Certification%20Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Certification%20Name-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+---
 
 PORTFOLIO:
 No incluyo botón de Portfolio porque todavía no hay una URL real de portfolio personal.
-Cuando tengas una web publicada, puedes añadir el enlace.
+Cuando tengas una web publicada, añade algo así en la zona de botones superiores:
+
+<a href="https://TU-WEB.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 CODING PROFILES:
 No incluyo LeetCode, HackerRank, CodeChef o GeeksforGeeks porque no tengo tus enlaces reales.
-Poner enlaces genéricos puede dar mala impresión.
+Cuando tengas perfiles reales, puedes añadir:
+
+---
+
+<h2 align="center">Coding Profiles</h2>
+
+<br>
+
+<div align="center">
+
+  <a href="URL_REAL_DE_LEETCODE" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+
+  <a href="URL_REAL_DE_HACKERRANK" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+  </a>
+
+</div>
+
+---
 
 CONTRIBUTION SNAKE:
 No incluyo la animación de la serpiente porque necesita una GitHub Action configurada.
@@ -286,7 +340,7 @@ Si no existe esa configuración, aparece como imagen rota.
 
 GITHUB TROPHIES / STREAK / ACTIVITY GRAPH:
 No los incluyo para evitar sobrecargar el README.
-Además dependen de servicios externos que a veces fallan o tardan en cargar.
+Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 -->
 
 ---
@@ -323,10 +377,10 @@ Además dependen de servicios externos que a veces fallan o tardan en cargar.
 
 </div>
 
-<h1 align="center">
+<p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,35:7C3AED,70:6D28D9,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:2563EB,35:7C3AED,70:6D28D9,100:0F172A"
     alt="Footer"
   />
-</h1>
+</p>
