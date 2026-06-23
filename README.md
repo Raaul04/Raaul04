@@ -200,7 +200,7 @@ Data analysis project focused on processing football player statistics, calculat
 | Stack      | Python, Pandas, Matplotlib, CSV                                             |
 | Goal       | Analyze sports data and calculate performance indicators                    |
 | Learning   | Data cleaning, new metrics, sorting and CSV export                          |
-| Repository | <a href="https://github.com/Raaul04/football-data-analysis">View repositories</a> |
+| Repository | <a href="https://github.com/Raaul04/football-data-analysis">View repository</a> |
 
 <br>
 
