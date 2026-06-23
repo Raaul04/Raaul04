@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+%26+AI;Learning+by+Building"
+ src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+%26+AI;Learning+by+Building"
  alt="Typing SVG"
 />
 
@@ -19,10 +19,10 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4F46E5?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20%26%20AI-Learning-2563EB?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Madrid-Spain-9333EA?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" />
 
 </div>
 
@@ -31,15 +31,15 @@
 <div align="center">
 
   <a href="mailto:raulletradomontes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/raul-letrado-montes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
 
   <a href="https://github.com/Raaul04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 
 </div>
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Raaul04&label=Profile%20views&color=7c3aed&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Raaul04?label=Followers&style=flat-square&color=4f46e5" />
-  <img src="https://img.shields.io/github/stars/Raaul04?label=Stars&style=flat-square&color=2563eb" />
+  <img src="https://komarev.com/ghpvc/?username=Raaul04&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Raaul04?label=Followers&amp;style=flat-square&amp;color=4f46e5" />
+  <img src="https://img.shields.io/github/stars/Raaul04?label=Stars&amp;style=flat-square&amp;color=2563eb" />
 
 </div>
 
@@ -73,11 +73,11 @@
 <div align="center">
 
 | Focus Area           | Description                                                     |
-| -------------------- | --------------------------------------------------------------- |
+| --------------------- | ----------------------------------------------------------------- |
 | Software Engineering | Clean code, maintainable solutions and problem solving          |
 | Frontend Development | React, TypeScript, Vite and Next.js                             |
 | Backend Development  | Node.js, Express, APIs and databases                            |
-| Data & AI            | Python, data analysis, automation and applied AI                |
+| Data &amp; AI            | Python, data analysis, automation and applied AI                |
 | Systems Thinking     | Linux, networks, distributed systems and real-world engineering |
 
 </div>
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css&amp;theme=dark" />
 
 </div>
 
@@ -116,17 +116,17 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&amp;theme=dark" />
 
 </div>
 
 <br>
 
-<h3 align="center">Backend & Databases</h3>
+<h3 align="center">Backend &amp; Databases</h3>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&amp;theme=dark" />
 
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&amp;theme=dark" />
 
 </div>
 
@@ -147,7 +147,7 @@
 <div align="center">
 
 | Area            | Level                | Details                                                       |
-| --------------- | -------------------- | ------------------------------------------------------------- |
+| --------------- | --------------------- | ---------------------------------------------------------------- |
 | Python for Data | Intermediate         | Data cleaning, CSV processing and basic analytics             |
 | Pandas          | Intermediate         | Dataframes, transformations and calculated metrics            |
 | Matplotlib      | Basic / Intermediate | Data visualization and simple charts                          |
@@ -172,7 +172,7 @@ Frontend application inspired by the Solar Opposites “Lessonalyzer” concept,
 <br>
 
 | Category   | Details                                                                     |
-| ---------- | --------------------------------------------------------------------------- |
+| ---------- | ----------------------------------------------------------------------------- |
 | Stack      | React, TypeScript, Vite, Axios, CSS                                         |
 | Goal       | Consume an external API and display dynamic content                         |
 | Learning   | Components, hooks, HTTP requests and project structure                      |
@@ -196,7 +196,7 @@ Data analysis project focused on processing football player statistics, calculat
 <br>
 
 | Category   | Details                                                                     |
-| ---------- | --------------------------------------------------------------------------- |
+| ---------- | ----------------------------------------------------------------------------- |
 | Stack      | Python, Pandas, Matplotlib, CSV                                             |
 | Goal       | Analyze sports data and calculate performance indicators                    |
 | Learning   | Data cleaning, new metrics, sorting and CSV export                          |
@@ -220,7 +220,7 @@ Academic projects related to web development, programming, databases, systems an
 <br>
 
 | Area       | Technologies                                                                |
-| ---------- | --------------------------------------------------------------------------- |
+| ---------- | ----------------------------------------------------------------------------- |
 | Frontend   | React, TypeScript, Next.js                                                  |
 | Backend    | Node.js, Express, Java                                                      |
 | Data       | Python, Pandas, MySQL, MongoDB                                              |
@@ -242,10 +242,10 @@ These projects reflect my learning process across different areas of Computer En
 <div align="center">
 
 | Topic              | Objective                                               |
-| ------------------ | ------------------------------------------------------- |
-| React & TypeScript | Build better structured frontend applications           |
+| ------------------- | ---------------------------------------------------------- |
+| React &amp; TypeScript | Build better structured frontend applications           |
 | Next.js            | Develop modern full stack web applications              |
-| Python & Data      | Apply data analysis to real-world use cases             |
+| Python &amp; Data      | Apply data analysis to real-world use cases             |
 | GraphQL            | Understand modern API consumption                       |
 | Applied AI         | Use artificial intelligence to solve practical problems |
 
@@ -261,7 +261,7 @@ These projects reflect my learning process across different areas of Computer En
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api?username=Raaul04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"
+ src="https://github-readme-stats.vercel.app/api?username=Raaul04&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=7C3AED&amp;text_color=E5E7EB"
  alt="GitHub Stats"
 />
 
@@ -273,7 +273,7 @@ These projects reflect my learning process across different areas of Computer En
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaul04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaul04&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=E5E7EB"
  alt="Top Languages"
 />
 
@@ -352,19 +352,19 @@ Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 <div align="center">
 
   <a href="mailto:raulletradomontes@gmail.com">
-    <img src="https://img.shields.io/badge/raulletradomontes@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/raulletradomontes@gmail.com-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
 
 <br><br>
 
   <a href="https://www.linkedin.com/in/raul-letrado-montes/" target="_blank">
-    <img src="https://img.shields.io/badge/Raúl%20Letrado-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raúl%20Letrado-4F46E5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
 
 <br><br>
 
   <a href="https://github.com/Raaul04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Raaul04-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 
 </div>
