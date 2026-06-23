@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+%26+AI;Learning+by+Building"
+ src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Engineering+Student;Software+Engineering;Full+Stack+Development;Data+Analytics+and+AI;Learning+by+Building"
  alt="Typing SVG"
 />
 
@@ -163,24 +163,24 @@
 <br>
 
 <details>
-<summary><b>Lessonalyzer — React & TypeScript Web Application</b></summary>
+<summary><b>Star Wars Explorer — Next.js &amp; TypeScript Web Application</b></summary>
 
 <br>
 
-Frontend application inspired by the Solar Opposites “Lessonalyzer” concept, focused on API consumption, dynamic UI behavior and clean component structure.
+Frontend application built with Next.js (App Router) that consumes the Star Wars API (SWAPI) to browse films and characters, with dynamic routes, reusable components and a search feature.
 
 <br>
 
 | Category   | Details                                                                     |
 | ---------- | ----------------------------------------------------------------------------- |
-| Stack      | React, TypeScript, Vite, Axios, CSS                                         |
-| Goal       | Consume an external API and display dynamic content                         |
-| Learning   | Components, hooks, HTTP requests and project structure                      |
-| Repository | <a href="https://github.com/Raaul04?tab=repositories">View repositories</a> |
+| Stack      | Next.js, React, TypeScript, Axios, CSS                                      |
+| Goal       | Consume the Star Wars API (SWAPI) and display dynamic content                |
+| Learning   | Next.js App Router, dynamic routes, components and HTTP requests with Axios  |
+| Repository | <a href="https://github.com/Raaul04/Star-Wars" target="_blank">View repository</a> |
 
 <br>
 
-This project helped me practice React, TypeScript, API integration and frontend organization through a visual and interactive interface.
+This project helped me practice Next.js, TypeScript, API integration with Axios and frontend organization through a visual and interactive interface.
 
 </details>
 
@@ -200,7 +200,7 @@ Data analysis project focused on processing football player statistics, calculat
 | Stack      | Python, Pandas, Matplotlib, CSV                                             |
 | Goal       | Analyze sports data and calculate performance indicators                    |
 | Learning   | Data cleaning, new metrics, sorting and CSV export                          |
-| Repository | <a href="https://github.com/Raaul04?tab=repositories">View repositories</a> |
+| Repository | <a href="https://github.com/Raaul04/football-data-analysis">View repositories</a> |
 
 <br>
 
