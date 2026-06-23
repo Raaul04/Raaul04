@@ -116,7 +116,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite&amp;theme=dark" />
 
 </div>
 
