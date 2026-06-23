@@ -374,6 +374,9 @@ Además, dependen de servicios externos que a veces fallan o tardan en cargar.
 <div align="center">
 
 <b>Building software with curiosity, consistency and an engineering mindset.</b>
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/496a6bc4-7321-4659-bdc2-21bd4e1e56bb"  width="300" />
+    </div>
 
 </div>
 
