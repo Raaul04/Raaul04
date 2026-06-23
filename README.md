@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&amp;text=Ra%C3%BAl%20Letrado&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20AI&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0F172A,35:312E81,70:7C3AED,100:2563EB&amp;text=Ra%C3%BAl%20Letrado&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlignY=36&amp;desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Data%20and%20AI&amp;descSize=18&amp;descAlignY=56&amp;animation=fadeIn"
     alt="Raúl Letrado"
   />
 </p>
