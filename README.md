@@ -126,7 +126,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&amp;theme=dark" />
 
 </div>
 
